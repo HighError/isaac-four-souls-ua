@@ -33,7 +33,7 @@
 | Base/Eternal         |      10     |     0    |   10   |
 | Base/Loot            |     104     |     0    |   104  |
 | Base/Monster         |     107     |     0    |   107  |
-| Base/Soul            |      0      |     0    |    3   |
+| Base/Soul            |      3      |     0    |    3   |
 | Base/Treasure        |      0      |     0    |   105  |
 |                      |             |          |        |
 | FourSouls+/Character |      0      |     0    |    4   |
